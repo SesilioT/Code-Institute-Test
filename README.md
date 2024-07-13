@@ -20,7 +20,7 @@
         </section>
     </main>
     <footer>
-        <p>&copy; 2024 Music Uploader</p>
+        <p>NiceBoyz&copy; 2024 Music Uploader</p>
     </footer>
 </body>
 </html>
